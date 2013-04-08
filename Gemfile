@@ -41,3 +41,6 @@ gem 'jquery-rails'
 gem 'blacklight'
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "bootstrap-sass"
+
+#To use range limit slider
+gem 'blacklight_range_limit'
